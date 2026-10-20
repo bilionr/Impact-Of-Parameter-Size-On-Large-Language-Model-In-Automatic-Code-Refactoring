@@ -1,0 +1,5 @@
+n = int(input())
+a = list(map(int,input().split()))
+m = int(input())
+b = list(map(int,input().split()))
+print(1) if b>a else print(0)
